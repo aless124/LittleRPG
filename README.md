@@ -1,3 +1,3 @@
 # LittleRPG
 
-Game in pre alpha ...for now :)
+Game in alpha ...for now :)
